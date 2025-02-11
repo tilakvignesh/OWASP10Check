@@ -1,5 +1,3 @@
-# Python script to check for broken access control. 
-
 # This script specifically checks miscofigured access controls in a very simple webapp.
 import requests
 import argparse
