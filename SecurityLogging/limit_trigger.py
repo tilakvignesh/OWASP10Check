@@ -32,7 +32,7 @@ if __name__ == "__main__":
     observer.schedule(event_handler, ".", recursive=False)
     observer.start()
     
-    print("🔍 Monitoring security logs...")
+    print("Monitoring security logs...")
     try:
         while True:
             time.sleep(1)
