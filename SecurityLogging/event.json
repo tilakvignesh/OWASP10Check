@@ -1,0 +1,7 @@
+[{
+    "status_code": 404
+},
+{
+    "status_code": 401,
+    "ip_addr": "127.0.0.1"
+}] 
